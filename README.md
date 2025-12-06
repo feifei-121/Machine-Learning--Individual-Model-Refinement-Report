@@ -18,7 +18,7 @@ All experiments are run with a fixed random seed to ensure reproducibility.
 
 ## 2. File Structure
 
-- `new_code.ipynb` – Main analysis notebook.
+- `Individual Refinement` – Main analysis notebook.
 - `Churn_Modelling_Cleaned.csv` – Input dataset (10,000 customers, 11 original features).
 
 No external data is used. The personal work uses the same cleaned dataset as the group project.
@@ -54,7 +54,7 @@ pip install pandas==2.0.3 numpy==1.24.3 scikit-learn==1.3.0 \
 1. **Place files**  
    Ensure the following files are in the same directory:
 
-   - `new_code.ipynb`
+   - `Individual Refinement.ipynb`
    - `Churn_Modelling_Cleaned.csv`
 
 2. **Open the notebook**  
